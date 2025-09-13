@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+.idea/
+*.log
+**/Platforms/Android/*.keystore
+**/Platforms/Android/google-services.json
+**/Platforms/iOS/*.mobileprovision
+**/Platforms/iOS/*.p12
+*.apk
+*.aab
+*.ipa
